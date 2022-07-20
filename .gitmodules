@@ -1,0 +1,3 @@
+[submodule "evdev"]
+	path = evdev
+	url = https://github.com/Surferlul/evdev
